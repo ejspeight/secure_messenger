@@ -1,2 +1,2 @@
 # secure_messenger
-open source encrypted messenger application
+encrypted messenger application
